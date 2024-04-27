@@ -1,0 +1,1 @@
+# Here I will create a database. I will be importing a real dataset in csv and clean the data. I will run through all the steps to clean the data in sql. 
